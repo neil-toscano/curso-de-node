@@ -1,0 +1,14 @@
+{
+  "name": "datos2",
+  "version": "1.0.0",
+  "description": "Una simple tabla",
+  "main": "funciones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neil",
+  "license": "ISC",
+  "dependencies": {
+    "color.js": "^1.2.0"
+  }
+}
